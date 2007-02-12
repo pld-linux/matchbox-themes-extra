@@ -1,5 +1,5 @@
 Summary:	Extra themes for Matchbox
-Summary(pl):	Dodatkowe motywy dla ¶rodowiska Matchbox
+Summary(pl.UTF-8):   Dodatkowe motywy dla Å›rodowiska Matchbox
 Name:		matchbox-themes-extra
 Version:	0.3
 Release:	1
@@ -14,8 +14,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Extra themes for Matchbox: Industrial, expose, mbcrystal.
 
-%description -l pl
-Dodatkowe motywy dla ¶rodowiska Matchbox: Industrial, expose,
+%description -l pl.UTF-8
+Dodatkowe motywy dla Å›rodowiska Matchbox: Industrial, expose,
 mbcrystal.
 
 %prep
