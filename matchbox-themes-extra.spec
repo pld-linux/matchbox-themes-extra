@@ -1,5 +1,5 @@
 Summary:	Extra themes for Matchbox
-Summary(pl.UTF-8):   Dodatkowe motywy dla środowiska Matchbox
+Summary(pl.UTF-8):	Dodatkowe motywy dla środowiska Matchbox
 Name:		matchbox-themes-extra
 Version:	0.3
 Release:	1
