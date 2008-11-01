@@ -2,12 +2,12 @@ Summary:	Extra themes for Matchbox
 Summary(pl.UTF-8):	Dodatkowe motywy dla środowiska Matchbox
 Name:		matchbox-themes-extra
 Version:	0.3
-Release:	1
+Release:	2
 License:	GPL v2+
 Group:		Themes
-Source0:	http://projects.o-hand.com/matchbox/sources/matchbox-themes-extra/%{version}/%{name}-%{version}.tar.bz2
+Source0:	http://matchbox-project.org/sources/matchbox-themes-extra/%{version}/%{name}-%{version}.tar.bz2
 # Source0-md5:	04312628f4a21f4105bce1251ea08035
-URL:		http://projects.o-hand.com/matchbox/
+URL:		http://matchbox-project.org/
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
