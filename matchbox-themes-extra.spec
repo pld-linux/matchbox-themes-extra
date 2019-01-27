@@ -5,9 +5,9 @@ Version:	0.3
 Release:	2
 License:	GPL v2+
 Group:		Themes
-Source0:	http://matchbox-project.org/sources/matchbox-themes-extra/%{version}/%{name}-%{version}.tar.bz2
+Source0:	http://downloads.yoctoproject.org/releases/matchbox/matchbox-themes-extra/%{version}/%{name}-%{version}.tar.bz2
 # Source0-md5:	04312628f4a21f4105bce1251ea08035
-URL:		http://matchbox-project.org/
+URL:		https://www.yoctoproject.org/software-item/matchbox/
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
